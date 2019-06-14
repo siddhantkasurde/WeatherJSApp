@@ -1,4 +1,4 @@
-let appId=''; // Add your open weather map APPID
+let appId=''; // Add your openweathermap APPID
 let units='metric';
 let searchMethod='';
 
